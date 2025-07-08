@@ -1,0 +1,10 @@
+com/fawrychallenge/bookstore/books/core/Shippable.class
+com/fawrychallenge/bookstore/books/EBook.class
+com/fawrychallenge/bookstore/books/ShowcaseBook.class
+com/fawrychallenge/bookstore/books/core/Book.class
+com/fawrychallenge/bookstore/books/core/Emailable.class
+com/fawrychallenge/App.class
+com/fawrychallenge/bookstore/inventory/BookInventory.class
+com/fawrychallenge/bookstore/services/ShippingService.class
+com/fawrychallenge/bookstore/services/MailService.class
+com/fawrychallenge/bookstore/books/PaperBook.class

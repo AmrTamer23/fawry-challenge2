@@ -1,0 +1,10 @@
+/Users/amrtamer/SWE/mine/fawry-challenge2/src/main/java/com/fawrychallenge/App.java
+/Users/amrtamer/SWE/mine/fawry-challenge2/src/main/java/com/fawrychallenge/bookstore/books/EBook.java
+/Users/amrtamer/SWE/mine/fawry-challenge2/src/main/java/com/fawrychallenge/bookstore/books/PaperBook.java
+/Users/amrtamer/SWE/mine/fawry-challenge2/src/main/java/com/fawrychallenge/bookstore/books/ShowcaseBook.java
+/Users/amrtamer/SWE/mine/fawry-challenge2/src/main/java/com/fawrychallenge/bookstore/books/core/Book.java
+/Users/amrtamer/SWE/mine/fawry-challenge2/src/main/java/com/fawrychallenge/bookstore/books/core/Emailable.java
+/Users/amrtamer/SWE/mine/fawry-challenge2/src/main/java/com/fawrychallenge/bookstore/books/core/Shippable.java
+/Users/amrtamer/SWE/mine/fawry-challenge2/src/main/java/com/fawrychallenge/bookstore/inventory/BookInventory.java
+/Users/amrtamer/SWE/mine/fawry-challenge2/src/main/java/com/fawrychallenge/bookstore/services/MailService.java
+/Users/amrtamer/SWE/mine/fawry-challenge2/src/main/java/com/fawrychallenge/bookstore/services/ShippingService.java
